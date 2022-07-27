@@ -1,4 +1,5 @@
-# DuBibtex
+# bib文件统一大小写的用法
+![Alt text]()
 
 This script merges duplicated bibtex items from a list of .bib files,
 capitalize the titles, and more importantly, resolve missing DOIs, years.
