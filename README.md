@@ -1,4 +1,4 @@
-# bib文件统一大小写的用法
+# 处理bib文件
 ![Alt text](https://github.com/liuzywen/Bib/blob/main/readme.png)
 
 This script merges duplicated bibtex items from a list of .bib files,
