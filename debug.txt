@@ -1,0 +1,752 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>è°·ç²å­¦æ¯</title>
+  <meta name="keywords" content="è°·ç²å­¦æ¯,è°·æ­å­¦æ¯,æç®æ£ç´¢,æç®,å¼ææç®,è±ææç®,å¤ææç®" />
+  <meta name="description"
+    content="è°·ç²å­¦æ¯:ç±å­¦æ¯æç®ç ç©¶èèåå»ºç«çæç®æ£ç´¢æå¡,æ¹ä¾¿å¤§å®¶ç¨³å®å¿«éå°å©ç¨è°·æ­å­¦æ¯æç´¢æ¥æ¾æç®è¿è¡å­¦æ¯ç ç©¶.æ¨æå¨åºågoogleå­¦æ¯æ æ³è®¿é®æ¶ç¨è°·ç²å­¦æ¯è¿è¡æç®æ¥æ¾å°±å¯¹äºã">
+  <link rel="shortcut icon" href="//img.99lb.net/favicon.ico" />
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="https://img.99lb.net/images/bootstrap-combined.min.css">
+  <link rel="stylesheet" href="https://img.99lb.net/index_files/index_880dd61.css">
+  <link rel="stylesheet" href="https://img.99lb.net/index_files/css/newindex2.css" />
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap-ie6.min.css">
+<![endif]-->
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/static/css/ie.css">
+<![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="https://img.99lb.net/images/index.css">
+  <link rel="search" type="application/opensearchdescription+xml" href="https://img.99lb.net/images/opensearch.xml"
+    title="gfsoso">
+  <!--[if lte IE 6]>
+<script type="text/javascript" src="/static/js/bootstrap-ie.js"></script>
+<![endif]-->
+  <!--[if lt IE 9]>
+<script src="/static/js/ie9.js"></script>
+<![endif]-->
+  <script language="javascript">
+    if (top.location !== self.location) {
+      top.location.href = self.location.href;
+    }
+  </script>
+</head>
+<script>var allurl=window.location.href;window.history.pushState({}, 0, "https://" + window.location.host);</script>
+<body>
+  <div style="position: relative;">
+    <center>
+<div class="lists listsss">
+
+			<a class="lis li"  href="https://gfsoso.99lb.net/muchong.html">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/xmc-1.png" alt="" width="100%"></div>
+				<p>å°æ¨è«</p>
+			</a>
+			<a class="lis li" href="http://grammarly.99lb.net/" target="_blank">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/yxyz-2.png" alt="" width="100%"></div>
+				<p>è¯­æ³æ ¡æ­£</p>
+			</a>
+			<a class="lis li" href="https://gfsoso.99lb.net/wanfangdata.html">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/wfss-3.png" alt="" width="100%"></div>
+				<p>ä¸æ¹æç´¢</p>
+			</a>
+			<a class="lis li" href="https://www.ithenticatecn.com/" rel="nofollow" target="_blank">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/kytp-5.png" alt="" width="100%"></div>
+				<p>SCIæ¥é</p>
+			</a>
+			<a class="lis li" href="https://gfsoso.99lb.net/bookzz.html">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/bookzz-15.png" alt="" width="100%"></div>
+				<p>Bookzz</p>
+			</a>
+			<a class="lis li" href="https://gfsoso.99lb.net/medsci.html">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/msyx-6.png" alt="" width="100%"></div>
+				<p>æ¢æ¯å»å­¦</p>
+			</a>
+			<a class="li" id="more">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/zhankai.png" alt="" width="26px" height="26px"></div>
+				<p>æ´å¤</p>
+			</a>
+			<div class="li" id="away" style="display: none;">
+				<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/shouqi.png" alt="" width="26px" height="26px"></div>
+				<p>æ¶èµ·</p>
+			</div>
+			<div class="listss lists" style="display: none;top: 60px;">
+				<a class="lis li" href="https://gfsoso.99lb.net/zhuanyeshuyu.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/zysy-7.png" alt="" width="100%"></div>
+					<p>ä¸ä¸æ¯è¯­</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/OAwenxian.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/oawx-8.png" alt="" width="100%"></div>
+					<p>OAæç®</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/zhangqiao.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/zqky-18.png" alt="" width="100%"></div>
+					<p>ææ¡¥ç§ç </p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/guwenxian.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/gwx-10.png" alt="" width="100%"></div>
+					<p>å¤æç®</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/DOIchaxun.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/doicx-11.png" alt="" width="100%"></div>
+					<p>DOIæ¥è¯¢</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/bingacademic.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/bingxs-12.png" alt="" width="100%"></div>
+					<p>å¿åºå­¦æ¯</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/semanticscholar.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/wrxs-13.png" alt="" width="100%"></div>
+					<p>semantic scholar</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/nlclib.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/gjtsg-17.png" alt="" width="100%"></div>
+					<p>å½å®¶å¾ä¹¦é¦</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/wosqikan.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/wosqk-4.png" alt="" width="100%"></div>
+					<p>WOSæå</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/keyantupian.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/base-16.png" alt="" width="100%"></div>
+					<p>ç§ç å¾ç</p>
+				</a>
+				<a class="lis li"  href="http://xueshu.99lb.net/" target="_blank">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/jhxs-14.png" alt="" width="100%"></div>
+					<p>èåå­¦æ¯</p>
+				</a>
+				<a class="lis li"  href="https://gfsoso.99lb.net/xueshuhuiyi.html">
+					<div class="ig"><img src="https://img.99lb.net/index_files/tubiao/icon/xshy-9.png" alt="" width="100%"></div>
+					<p>å­¦æ¯ä¼è®®</p>
+				</a>
+			</div>
+		</div>
+
+      <div id="logo-gf">
+        <div id="logo-entity">
+          <h1>
+            <a href="https://gfsoso.99lb.net/scholar.html"><img id="logo-img" src="https://img.99lb.net/images/logo.png"
+                width="400px" height="120px" alt="è°·æ­å­¦æ¯"></a>
+          </h1>
+        </div>
+      </div>
+      <div>
+        <ul id="middle-nav" class="nav nav-pills inline" style="padding-bottom:10px;">
+          <li class="active ">
+            <a href="https://gfsoso.99lb.net/" style="color:#fff;">å­¦æ¯é¦é¡µ</a>
+          </li>
+          <li class=" ">
+            <a href="https://gfsoso.99lb.net/sci-hub.html" rel="nofollow" style="color:#666;">sci-hub</a>
+          </li>
+          <li class=" ">
+            <a href="https://gfsoso.99lb.net/cnki.html" style="color:#666;">ç¥ç½æç´¢</a>
+          </li>
+          <li class=" ">
+            <a href="https://gfsoso.99lb.net/patents.html" style="color:#666;">ä¸å©æ¥è¯¢</a>
+          </li>
+		  <li class=""> <a href="https://gfsoso.99lb.net/letpub.html" style="color:#666;">å½±åå å­</a> </li> 
+        </ul>
+      </div>
+      <div>
+        <form action="https://kuaisou.99lb.net/php/xs.php" method="get" role="search">
+          <div id="iiii">
+            <input class="input-xxlarge" value="" style="font-size:17px;height:25px;max-width:500px;" type="text"
+              name="q" id="lst-ib" autofocus="autofocus" autocomplete="off" placeholder="">
+          </div>
+          <div style="padding-top:10px;">
+            <input value="è°·ç²å­¦æ¯" type="submit" class="btn btn-fl" style="margin-left:5px;">
+            <input value="ææ°ä¸é" type="submit" class="btn btn-fl" style="margin-left:5px;" name="lucky">
+          </div>
+        </form>
+      </div>
+
+<center><a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/?rec=1" target="_blank" class="isPC"></a></center><br>
+
+<h7 style="color: red;">è±æåä½è¾å©ãè¯­æ³æ£æµãæ¼åæ ¡æ­£å·¥å·:è¯­å¢åæä¸çè¯æ±åºç¨çº æ­£;è§£å³è±è¯­è®ºæçåç±»è¯­æ³é®é¢<a href="http://grammarly.99lb.net/grammarly-Premium.html" target="_blank">[è¿å¥äºè§£]</a></h7>
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- èªéåºæ¹è£970X90 -->
+        <ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px"
+          data-ad-client="ca-pub-9629105312034481" data-ad-slot="2694777106"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script></center><p></p>
+
+      <div id="line_two" class="bbb aa">
+        <div class="index_new_subject_rank xpath-log">
+          <div class="index_new_subject_rank_meau">
+            <div class="meau_title index_bold_font OP_LOG_BTN">ç²¾éæç« </div>
+            <div class="meau_list">
+
+<span class="OP_LOG_BTN demo1 clickActive">è¡ä¸æ°é»</span><span class="OP_LOG_BTN demo1 ">è®ºæç¥è¯</span><span class="OP_LOG_BTN demo1 ">åæ²¿å­¦æ¯</span><span class="OP_LOG_BTN demo1 ">ç¸å³é®é¢</span>            </div>
+            <div class="meau_btn">
+              <span>
+                <i class="new_index_icon_left OP_LOG_BTN"></i>
+              </span>
+              <span>
+                <i class="new_index_icon_right new_index_icon_right_active OP_LOG_BTN"></i>
+              </span>
+            </div>
+          </div>
+          <div id="index_new_subject_rank_content" class="index_new_subject_rank_content">
+<div style="display: block;"><div class="content_item content_one OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_one">1</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-476.html" target="_blank"><div class="content_item_title" >ä¸æµ·ç§æå¤§å­¦ææ°ï¼ãCellãï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+7æ22æ¥ï¼ä¸æµ·ç§æå¤§å­¦çå½å­¦é¢æ± å¤©è¯¾é¢ç»å¨ãç»èãï¼Cellï¼æå¿å¨çº¿åè¡¨è®ºæï¼æ¥éäºä¸ç§å´­æ°ç</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_two">2</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-475.html" target="_blank"><div class="content_item_title" >å·å¤§æ ¡é¿ï¼å¹å»åºç¡æå°äººæï¼å°±è¦èå¾æå¥äººåç©ååè´¢å</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ ç¾å¹´åæ ¡ï¼æ éè²äººãå¹å»ä¸æµçäººæï¼æ¯é«æ ¡çè´£ä»»ä¸ä½¿å½ã
+
+
+
+å¹å»åºç¡æå°äººææ¯ä¸é¡¹æ¢è´¹ååç§</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_three">3</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-474.html" target="_blank"><div class="content_item_title" >æ­çï¼âåä¸æµâé«æ ¡æç«æ°å­¦é¢</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ 7æ20æ¥ï¼ä¸­å½ä¼ åªå¤§å­¦æ¬ç§çé¢æç«å¤§ä¼å¨å¾ä¹¦é¦åå½¢æ¥ååééå¬å¼ï¼å¹¶å¨ä¼ä¸æ­£å¼åå¸äºä¸­å½ä¼ åªå¤§</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">4</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-473.html" target="_blank"><div class="content_item_title" >å¼å¼ºæ´ï¼è¿æåä¸æµé«æ ¡ï¼è·é¢å£«å çï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+7æ20æ¥ï¼æ­¦æ±çå·¥å¤§å­¦ä¸¾è¡æç¥ç§å­¦å®¶èä»»ä»ªå¼ï¼ä¸­å½ç§å­¦é¢é¢å£«ãè¥¿å®çµå­ç§æå¤§å­¦éè·ææåèæ­¦æ±ç</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">5</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-472.html" target="_blank"><div class="content_item_title" >å»å­¦åå£«çåºææäººè·é¿ä¿¡è¡¨æ¬ï¼å­¦æ ¡éé²ï¼è¿åè¿SCIâ¦â¦</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ææ¯å»å­¦çï¼è¯·ç¸ä¿¡æï¼â7æ7æ¥ï¼ä¸æµ·å°é2å·çº¿ï¼ä¸ç·å­åå°æè¯ä¸æ¸ãå±æ¥æ¶å»ï¼ä¸æµ·ä¸­å»è¯å¤§å­¦20</div></a></div></li></ul></div><div class="content_item content_two OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">6</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-471.html" target="_blank"><div class="content_item_title" >æ·±å³èä¸ææ¯å­¦é¢åï¼Scienceï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+è¿æ¥ï¼ç¾å½ç½æ ¼æ¯å¤§å­¦ç»èº«ææãæ·±å³èä¸ææ¯å­¦é¢å®¢åº§æææéèåæµæ±å¤§å­¦åä½èå¨ãç§å­¦ãï¼ãScie</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">7</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-470.html" target="_blank"><div class="content_item_title" >å¨çé¦æ¬¡ï¼åäº¬å¥³åå£«å¨çº¿åè¡¨éç£ç ç©¶ï¼ææç»Scienceæå¿ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+è¿æ¥ï¼åäº¬å¸èå¤§å­¦åå­¦å­¦é¢é­éææï¼å±åéè®¯ä½èï¼ä¸åäº¬å¤§å­¦ç©çå­¦é¢éå­ææä¸­å¿æ±é¢ææãåäº¬å¤§å­¦</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">8</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-469.html" target="_blank"><div class="content_item_title" >é¢å£«ï¼ç§ç å·¥ä½èä¹å¾å»å®¶ï¼éåå³èµ°ååä¸ï¼ä¸å¾ä¸åç­å¹³å¿«çç ç©¶</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+å¦ä»ï¼59å²çä¸­å½ç§å­¦é¢é¢å£«é©¬å¤§ä¸ºï¼ä»ä¹ææ¨ç§æççâåå·âï¼âå¾å¤å¤§å­¦åç ç©¶åä½æ²¡ææç§ç§ç çè§</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">9</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-468.html" target="_blank"><div class="content_item_title" >è¯¥å°"äººæå¼è¿"ï¼åå£«éæ¿ï¼å·¥ä½1å¹´è®¤å®å¯é«</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+7æ7æ¥ï¼çèçéæ³å¸çå·å¿å¿æ¿åºåäºçå·å¿äººæ°æ¿åºå®ç½åæï¼ä»ç»äºä»å¹´çå·å¿äººæå¼è¿çâç¡¬æ ¸âä¹</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">10</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/hangyexinwen-467.html" target="_blank"><div class="content_item_title" >ç¥è´ºï¼è¿æ985å¤§å­¦ï¼é¡¶åCellåæï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+7æ14æ¥ï¼å½éé¡¶çº§æåCellï¼ãç»èãï¼å¨çº¿ååè¥¿ååæç§æå¤§å­¦æ¤ç©åç«å¢éåç»18å¹´çç ç©¶æ</div></a></div></li></ul></div></div><div style="display: none;"><div class="content_item content_one OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_one">1</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-182.html" target="_blank"><div class="content_item_title" >Papreredï¼è®ºææ¥é</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+Papreredï¼æ¯ä¸æ¬¾å®å¨åè´¹è®ºææ¥éç½ç«ï¼ä¸­å¤ææ°æ®æ°å¢5äº¿ï¼äºèç½æ°æ®å®æ¶æ¯å¯¹ï¼æ»éé«è¾¾50</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_two">2</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-181.html" target="_blank"><div class="content_item_title" >Paperyyï¼è®ºææ¥éæ£æµ</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+Paperyyï¼ä¸æ¬¾éç¨äºè®ºæåç¨¿æ¥éçåè´¹åºç¨
+
+
+
+ç½åï¼https://www.papery</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_three">3</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-180.html" target="_blank"><div class="content_item_title" >Deepl, Aiç¿»è¯å·¥å·</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ç¿»è¯è½¯ä»¶æä¸å°ï¼ä½ä¸æ¯æºç¿»å°±æ¯ç¿»è¯ææä¸ä½³ï¼æ³è¦ä¸æ¬¾æå®åçç¿»è¯è½¯ä»¶ï¼DeepL&nbsp;&nb</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">4</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-179.html" target="_blank"><div class="content_item_title" >Quillbotï¼Aiè±ææ¶¦è²å·¥å·ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+è±æåä½é¿åä¸äºåºç°åè¯éè¯¯ï¼è¯­æ³éè¯¯ç­ï¼ä½ä¸ºAiè±æè¾å©è½¯ä»¶ï¼QuillBotï¼å¨ä¸å®ç¨</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">5</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-178.html" target="_blank"><div class="content_item_title" >å¦ä½å¨å­¦æ¯ä¼è®®ä¸­æåç¤¾äº¤ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+å½æè¿æ¯ç ç©¶ççæ¶åï¼æå¹¸åå è¿å ä¸ªå­¦æ¯ä¼è®®ãä¸å¼å§åªæ¯å»å¬è°è¯ãåäºåè´¹çé£ç©ï¼ç¶åè·å°åºçèæ</div></a></div></li></ul></div><div class="content_item content_two OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">6</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-177.html" target="_blank"><div class="content_item_title" >è®ºææ é¢æåªäºå°æå·§ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+å®è®ºæé¢ç®çä¼¼ç®åï¼ä½äºå®ä¸éè¦ç¼å¯çæèãè¯»èæå¯»èµæåºåè®ºæçåèæç®æ¶æåçå°çå°±æ¯</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">7</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-176.html" target="_blank"><div class="content_item_title" >ææ ·åä½ä¸ç¯ç§å­¦è®ºæï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+1.ä»ä¹æ¯ç§å­¦è®ºæï¼
+
+
+
+ä¸ç¯è®ºææ¯æç»ç»å°æè¿°åè®¾ï¼æ°æ®åç»è®ºï¼æ¨å¨æå¯¼è¯»èãè®ºææ¯ç </div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">8</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-175.html" target="_blank"><div class="content_item_title" >å­¦æ¯è®ºæåä½æ¶å¦ä½å¼ç¨æç®</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+å¨å¼ç¨åèæç®æ¹é¢æ®éå­å¨ä¸äºé®é¢ãè¿äºé®é¢æ¦æ¬èµ·æ¥æä»¥ä¸å ä¸ªæ¹é¢ï¼
+
+
+
+
+
+
+
+å¼ç¨æªç»å®¡æ¥æ­£</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">9</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-174.html" target="_blank"><div class="content_item_title" >ä½ çè®ºæå¼è¨æ¯è¿æ ·åçåï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+æä»¬å¨åè®ºæå¼è¨æ¶ï¼å¼è¨åç­âä¸ºä»ä¹ç ç©¶âçé®é¢ï¼æ­£æåç­âå¦ä½ç ç©¶âçé®é¢ï¼ç»è®ºåç­âç ç©¶åºäºä»</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">10</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/lunwenzhishi-173.html" target="_blank"><div class="content_item_title" >æä¹åå¥½ä¸ç¯æ¯ä¸è®ºæçç»ªè®ºï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+ç»ªè®ºæ¯è®ºæçå¼åºç½ï¼èµ·çéºå«ãè¿æ¸¡ãå¼å¯¼çä½ç¨ï¼æ¯æ¦æ¬ä½ååå®¹ãç ç©¶è¦ç¹åç ç©¶æ¹æ³çé¨åã</div></a></div></li></ul></div></div><div style="display: none;"><div class="content_item content_one OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_one">1</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-85.html" target="_blank"><div class="content_item_title" >æµå¤§ææ°ãNatureãæç« ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+
+
+
+
+â²ç¬¬ä¸ä½èï¼è£éæ¶¦ï¼å¢ç¦¹å
+
+
+
+éè®¯ä½èï¼å¯å»ºä¸
+éè®¯åä½ï¼æµæ±å¤§å­¦
+DOI: </div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_two">2</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-84.html" target="_blank"><div class="content_item_title" >åæ¹ç§æå¤§å­¦ææ°Natureï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+2021å¹´8æ11æ¥ï¼åæ¹ç§æå¤§å­¦ç©çç³»å¯ææãéå­ç§å­¦ä¸å·¥ç¨ç ç©¶é¢åå§ç ç©¶åè®¸å¿è³é¢å¯¼çå¢éä¸å</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_three">3</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-83.html" target="_blank"><div class="content_item_title" >æ°´æ±æ¾AMï¼æ°¢éåå¤çæé«M-N-C(M = Fe, Co)å¬ååçå¨å­ç¨³å®æ§åçæçµæ± æ§è½</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+01
+
+
+
+ç ç©¶èæ¯
+
+
+
+ç¢³è½½æ°®éä½è¿æ¸¡éå±åå­M-N-Cï¼M=Feï¼Coç­ï¼æ¯ä¸ç±»é«æ´»</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">4</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-82.html" target="_blank"><div class="content_item_title" >ä¿å¯¿äºJACSï¼åæ°§åè¿å/é¯ååå¬åçä¸å¯¹ç§°è¿åèªå¶èååºåæC2å¯¹ç§°æ§ç1,5-äºç¯ååç©</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+â²ç¬¬ä¸ä½èï¼å¼ æ´ªæµ© 
+
+
+
+éè®¯ä½èï¼ä¿å¯¿äº 
+
+
+
+éè®¯åä½ï¼åäº¬å¤§å­¦ 
+
+
+
+è®ºæDO</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">5</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-81.html" target="_blank"><div class="content_item_title" >å¼ æ³½/çåå¢éAngewï¼éå±è½½ä½å¼ºç¸äºä½ç¨ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+â²ç¬¬ä¸ä½èï¼æ±¤æ
+éè®¯ä½èï¼çå
+éè®¯åä½ï¼æµæ±å¤§å­¦ææå­¦é¢&amp;æµå¤§çµéä¸­å¿
+è®ºæD</div></a></div></li></ul></div><div class="content_item content_two OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">6</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-80.html" target="_blank"><div class="content_item_title" >æææ°Nature Commun.: åéä½è¾å©ç­ç¥æç­å¤åè½COF</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+â²ç¬¬ä¸ä½èï¼Liang Chenï¼Wenxing Wang    
+éè®¯ä½èï¼æææ°   </div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">7</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-79.html" target="_blank"><div class="content_item_title" >çæ³½é«AFMï¼éè¿è°æ§äºç»´ææp-nç»çå-ç©è´¨ä½ç¨å®ç°é«æ§è½å®½å¸¦åæ¢æµ</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+â²ç¬¬ä¸ä½èï¼æè³
+éè®¯ä½èï¼çæ³½é«
+éè®¯åä½ï¼åå·å¤§å­¦ææç§å­¦ä¸å·¥ç¨å­¦é¢
+DOIï¼http</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">8</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-78.html" target="_blank"><div class="content_item_title" >è¡äºé£ç ç©¶: èªç±åºä»å¯¼çåºäºååç¯ççä¸å¯¹ç§°ä¸ç»åPiancatelli-åéæååº</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+
+
+
+
+â²ç¬¬ä¸ä½èï¼å¾ç£ãéæå¸
+éè®¯ä½èï¼è¡äºé£
+éè®¯åä½ï¼éåºå¤§å­¦
+è®ºæDOIï¼10.1021</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">9</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-77.html" target="_blank"><div class="content_item_title" >åæ±ææAMï¼éåºå¤åç©ééç¿é«æèåååäºæç®¡</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+å¯¼è¯»
+
+
+
+2021å¹´8æ3æ¥ï¼ Advanced Materialså¨çº¿ååäºåä¸­ç§æå¤§å­¦åæ±æ</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">10</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/qianyanxueshu-76.html" target="_blank"><div class="content_item_title" >åå®³ï¼åç§å¤§è°­æä¸å¤©ä¸¤ç¯ï¼Natureå¤§å­åï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ç¬¬ä¸ç¯
+
+
+
+
+
+
+
+â²ç¬¬ä¸ä½èï¼San Wu
+éè®¯ä½èï¼Bin Tan
+éè®¯åä½ï¼Souther</div></a></div></li></ul></div></div><div style="display: none;"><div class="content_item content_one OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_one">1</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-188.html" target="_blank"><div class="content_item_title" >ä½èä¸ºä»ä¹ä¼ååºï¼å­¦æ¯ä¸ç«¯è¡ä¸ºï¼ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ä½èä»ç»
+
+
+
+ Caven Mcloughlin 
+
+
+
+Caven Mcloughlin åå£«</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_two">2</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-187.html" target="_blank"><div class="content_item_title" >è¿ä¸¤ä½ææè·å¾ç¬¬ä¹å±çº³ç±³ç ç©¶å¥</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ä¸ºè¡¨å½°å¨çº³ç±³ç ç©¶é¢åååºéå¤§è´¡ç®ãè¿èæ¨å¨çº³ç±³å­¦ç§åå±çæ°åºç§å­¦å®¶ï¼ãçº³ç±³ç ç©¶ï¼è±æçï¼ãï¼Nan</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_three">3</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-186.html" target="_blank"><div class="content_item_title" >è¢«æç¨¿çè¿äºåå ï¼ä½ æéè§è¿åï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+åè¥æ¨å¨ææ°çå­¦æ¯ç§ç è®ºæä¸è±è´¹äºå¤§éçæ¶é´åç²¾åï¼ä¸å¿æ³åè¡¨ä½å´é­å°æåçæç¨¿ï¼è¿çç¡®ä»¤äººä¸å¿«ã</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">4</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-185.html" target="_blank"><div class="content_item_title" >æ¬ç¡åè¿è¯»çä¸äºæèï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+å³äºæ¬ç¡åè¿è¯»çæè
+
+
+
+
+
+
+
+1.è¯¥ä¸è¯¥å¤§åæå¡æ¬ç¡åè¿è¯»ï¼
+
+
+
+ï¼1ï¼æå©äºç¼©ç­å­¦å¶ï¼è</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">5</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-184.html" target="_blank"><div class="content_item_title" >ä¸­æç§æè®ºæä¸­å¸¸è§è¯­çæåªäºï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ä¸­æç§ç è®ºæçè¯­è¨ä¸å­å¨çæ¯çï¼ä¸æ¹é¢æ¯éå¯¹ç¨ä¸­æåçç§ç è®ºææ¬èº«ï¼å¦ä¸æ¹é¢æ¯ä¸ºäºç»ç¨è±è¯­åè®ºæç</div></a></div></li></ul></div><div class="content_item content_two OP_LOG_BTN"><ul><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">6</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-183.html" target="_blank"><div class="content_item_title" >è¿å¨ç©ä½çæ¶é´ä¸ºä»ä¹ä¼åæ¢ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+æ ¹æ®ç±å æ¯å¦çç­ä¹ç¸å¯¹è®ºï¼è¿å¨ç©ä½çæ¶é´åæ¢ãèè¿ä¸ªçè®ºå»ºç«å¨ä¸¤æ¡åçä¸ï¼ç¸å¯¹æ§åçååéä¸ååç</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">7</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-182.html" target="_blank"><div class="content_item_title" >æç®åä¸ºä¸æ¬¡ãäºæ¬¡ãä¸æ¬¡çåºå«</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+æç®çä¸»è¦åè½æ¯ä¼ æ­ç¥è¯ãå½ä»èåçè®ºå­¦å®¶èæ°¸ç¦ææè®¤ä¸ºè¿ä¸ªå®ä¹æ¯è¾å®½æ³ï¼ä»å¨2009å¹´åºççãå¾</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">8</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-181.html" target="_blank"><div class="content_item_title" >ææ ·å¿«éæå®ä¸ç¯è®ºæåç¨¿?</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+ä½ å¨åè®ºæçæ¶åï¼æ¯å¦ä½å¿«éæå®åç¨¿çï¼
+
+
+
+
+
+
+
+åè®ºæååå¥½åå¤å·¥ä½ï¼
+
+
+
+1ãåæèå¥½</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">9</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-180.html" target="_blank"><div class="content_item_title" >è®ºæä¸­çæç®ç»¼è¿°æå¤å¤§æä¹å¢ï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+&nbsp;ä¸ãæè½»æé
+
+
+
+
+
+
+
+é£ä¹æç®ç»¼è¿°ç®åæ¥è®²æå¤å¤§æä¹å¢ï¼
+
+
+
+å¯ä»¥ç»ç¸å³çï¼å°¤</div></a></div></li><li class="OP_LOG_LINK lisss"><div class="content_item_id"><i class="new_index_icon_number">10</i></div><div class="content_item_info"><a href="https://gfsoso.99lb.net/xiangguanwenti-179.html" target="_blank"><div class="content_item_title" >åæä¸å©ç³è¯·ä¹¦è¯¥ææ ·åï¼</div><div class="content_item_cite"><i>44</i></div><div class="content_item_author">
+åæä¸å©ç³è¯·ä¹¦çç»ææ¯ï¼è¯´æä¹¦æè¦ãæå©è¦æ±ä¹¦ãè¯´æä¹¦éå¾ä»¥åè¯´æä¹¦åé¨åç»æãèè¯´æä¹¦åç±ææ¯é¢</div></a></div></li></ul></div></div>
+          </div>
+        </div>
+
+        <script id="SubJectRank" type="text/html">
+	<span class="OP_LOG_BTN clickActive">åä¸</span>
+	<span class="OP_LOG_BTN">åä¸</span>
+	<span class="OP_LOG_BTN">åä¸</span>
+	</script>
+
+        <div class="index_new_paper_rank xpath-log">
+          <div class="index_new_paper_rank_meau">
+            <div class="meau_title index_bold_font">ç­é¨å³æ³¨</div>
+            <div class="meau_params">ç­åº¦</div>
+          </div>
+          <div class="index_new_paper_rank_content">
+            <ul>
+              <li class="OP_LOG_LINK" style="margin-bottom:13px;"><a
+                  rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=Deep learning" target="_blank">
+                  <div class="content_item_id"><i class="new_index_icon_one">1</i>></div>
+                  <div class="content_item_title">Deep learning</div>
+                  <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+                  <div class="content_item_cite">27375</div>
+                </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=æ°åå ç¶çæ¯" target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_two">2</i>></div>
+                <div class="content_item_title">æ°åå ç¶çæ¯</div>
+                <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+                <div class="content_item_cite">10394</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a
+                rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=Human-level control through deep reinforcement learning"
+                target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_three">3</i>></div>
+                <div class="content_item_title">Human-level control through deep reinforcement learning</div>
+                <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+                <div class="content_item_cite">7698</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=äººå·¥æºè½" target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">4</i>></div>
+                <div class="content_item_title">äººå·¥æºè½</div>
+                <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+                <div class="content_item_cite">6387</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a
+                rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=A global reference for human genetic variation"
+                target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">5</i>></div>
+                <div class="content_item_title">A global reference for human genetic variation</div>
+                <div class="content_item_icon"></div>
+                <div class="content_item_cite">6689</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a
+                rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=Mastering the game of Go with deep neural networks and tree search"
+                target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">6</i>></div>
+                <div class="content_item_title">Mastering the game of Go with deep neural networks and tree search</div>
+                <div class="content_item_icon"></div>
+                <div class="content_item_cite">6011</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a
+                rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=Analysis of protein-coding genetic variation in 60,706 humans"
+                target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">7</i>></div>
+                <div class="content_item_title">Analysis of protein-coding genetic variation in 60,706 humans</div>
+                <div class="content_item_icon"></div>
+                <div class="content_item_cite">3272</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=äººè¸è¯å«" target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">8</i>></div>
+                <div class="content_item_title">äººè¸è¯å«</div>
+                <div class="content_item_icon"></div>
+                <div class="content_item_cite">2801</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=æ°å ç«è" target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">9</i>></div>
+                <div class="content_item_title">æ°å ç«è</div>
+                <div class="content_item_icon"></div>
+                <div class="content_item_cite">2755</div>
+              </a></li>
+            </ul>
+            <li class="OP_LOG_LINK"><a rel="nofollow" href="https://xs.dailyheadlines.cc/scholar?q=5G" target="_blank">
+                <div class="content_item_id"><i class="new_index_icon_number">10</i>></div>
+                <div class="content_item_title">5G</div>
+                <div class="content_item_icon"></i></div>
+                <div class="content_item_cite">2650</div>
+              </a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="hint">
+        <font size="-1">
+          <div class="hint-links">
+            <style>
+              .x-circle {
+                -webkit-border-radius: 500px;
+                -moz-border-radius: 500px;
+                border-radius: 500px;
+                border: 1px solid #ccc;
+                width: 44px;
+                padding: 0px;
+                margin: 20px;
+              }
+
+              .menuitem1 {
+                height: 90% !important;
+                overflow: visible;
+                top: -20px;
+              }
+            </style>
+            </p><br>
+	
+		<div id="platform_menu" class="c_font">
+              <a rel="nofollow" href="https://www.home-for-researchers.com/paper/index.html#/" target="_blank" class="menuitem dotPromote"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/1.png" class="iconfont"><span>AIåä½å©æ</span></a>
+
+              <a rel="nofollow" href="https://www.aclbi.com/static/index.html#/" target="_blank" class="menuitem dotPromote"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/2.png" class="iconfont"><span>çä¿¡é¶ä»£ç </span></a>
+
+              <a rel="nofollow" href="https://www.figdraw.com/static/index.html#/" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/3.png" class="iconfont"><span>å¨çº¿ç§ç ç»å¾</span></a>
+ 
+              <a rel="nofollow" href="https://www.medreading.cn/pubmed_zh" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/4.png" class="iconfont"><span>Pubmedä¸­æç</span></a>
+				  
+              <a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/express_delivery" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/5.png" class="iconfont"><span>æ¯æ¥æç®éé</span></a>
+				  
+              <a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/statistics/metering" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/6.png" class="iconfont"><span>é¶åºç¡ç»è®¡åæ</span></a>
+				  
+              <a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/check_article" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/7.svg" class="iconfont"><span>è±ææ¥é</span></a>
+				  
+              <a rel="nofollow" href="https://www.figcheck.com/imagecheck" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/8.png" class="iconfont"><span>å¾çæ¥é</span></a>
+				  
+              <a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/project_assistant" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/9.svg" class="iconfont"><span>è¯¾é¢æè·¯å©æ</span></a> 
+				  
+              <a rel="nofollow" href="https://www.home-for-researchers.com/static/index.html#/funding" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/keyanhome/icon/10.png" class="iconfont"><span>å½èªç¶æ°æ®åæ</span></a>
+         </div>
+			
+            <div id="platform_menu" class="c_font">
+              <a href="https://gfsoso.99lb.net/chrome.html" target="_blank" class="menuitem dotPromote"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/tubiao/Chrome.png"
+                  class="iconfont"><span>è°·æ­æµè§å¨ä¸è½½</span></a>
+
+              <a href="https://gfsoso.99lb.net/tools.html" target="_blank" class="menuitem dotPromote"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/tubiao/xueshutools.png"
+                  class="iconfont"><span>å­¦æ¯å·¥å·</span></a>
+
+              <a href="https://gfsoso.99lb.net/freecnki.html" target="_blank" class="menuitem"><img width="35"
+                  height="35" src="https://img.99lb.net/index_files/tubiao/cnkifree.png"
+                  class="iconfont"><span>ç¥ç½åè´¹ä¸è½½</span></a>
+
+              <a href="https://gfsoso.99lb.net/chachong.html" target="_blank" class="menuitem"><img
+                  src="https://img.99lb.net/index_files/tubiao/lwcc.png" class="iconfont"><span>ç¥ç½æ¥é</span></a>
+
+              <a href="https://www.turnitincn.com" target="_blank" class="menuitem" rel="nofollow"><img
+                  src="https://img.99lb.net/index_files/tubiao/ywlwcc.png" class="iconfont"><span>è±æè®ºææ¥é</span></a>
+
+              <a href="https://gfsoso.99lb.net/fanyi.html" target="_blank" class="menuitem"><img
+                  src="https://img.99lb.net/index_files/tubiao/lwfy.png" class="iconfont"><span>è®ºæç¿»è¯</span></a>
+
+              <a href="http://grammarly.99lb.net/" target="_blank" class="menuitem"><img
+                  src="https://img.99lb.net/index_files/tubiao/xqtj.png" class="iconfont"><span>è±æè¯­æ³æ£æµ</span></a>
+
+              <a href="http://bbs.99lb.net/scholar/" target="_blank" class="menuitem"><img
+                  src="https://img.99lb.net/index_files/tubiao/wxqz.png" class="iconfont"><span>æç®æ±å©</span></a>
+
+              <a href="http://bbs.99lb.net/suggest/" target="_blank" class="menuitem"><img
+                  src="https://img.99lb.net/index_files/tubiao/yjfk.png" class="iconfont"><span>æè§åé¦</span></a>
+
+              <a href="javascript:;" onClick="showLsj()" class="menuitem menuitem1">
+                <img src="https://img.99lb.net/index_files/tubiao/wxico.png" border="0" class="iconfont" />
+                <span>å³æ³¨å¾®ä¿¡</span>
+                <img id="lsj_weixin" src="https://img.99lb.net/index_files/tubiao/ewm.jpg" data-index="0" />
+              </a>
+            </div>
+          </div>
+        </font>
+      </div>
+      <div id="line_two" class="aaa aa" style="height:240px;">
+
+        <div class="index_new_paper_rank xpath-log" style="height:240px;">
+          <div class="index_new_paper_rank_meau" id="index_new_paper_rank_meau">
+            <div class="meau_title index_bold_font">ç²¾éæç« </div>
+            <img src="https://img.99lb.net/index_files/more.png" alt="" width="20px">
+          </div>
+          <div class="index_new_paper_rank_content">
+            <ul>
+            <li class="OP_LOG_LINK" "style="margin-bottom:13px;"><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-476.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_one">1</i></div>
+        <div class="content_item_title">ä¸æµ·ç§æå¤§å­¦ææ°ï¼ãCellãï¼</div>
+        <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+        <div class="content_item_cite">27375</div>
+      </a></li><li class="OP_LOG_LINK" ><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-475.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_two">2</i></div>
+        <div class="content_item_title">å·å¤§æ ¡é¿ï¼å¹å»åºç¡æå°äººæï¼å°±è¦èå¾æå¥äººåç©ååè´¢å</div>
+        <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+        <div class="content_item_cite">10394</div>
+      </a></li><li class="OP_LOG_LINK" ><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-474.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_three">3</i></div>
+        <div class="content_item_title">æ­çï¼âåä¸æµâé«æ ¡æç«æ°å­¦é¢</div>
+        <div class="content_item_icon"><i class="new_index_icon_hot"></i></div>
+        <div class="content_item_cite">7698</div>
+      </a></li><li class="OP_LOG_LINK" ><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-473.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_number">4</i></div>
+        <div class="content_item_title">å¼å¼ºæ´ï¼è¿æåä¸æµé«æ ¡ï¼è·é¢å£«å çï¼</div>
+        <div class="content_item_icon"></div>
+        <div class="content_item_cite">6387</div>
+      </a></li><li class="OP_LOG_LINK" ><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-472.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_number">5</i></div>
+        <div class="content_item_title">å»å­¦åå£«çåºææäººè·é¿ä¿¡è¡¨æ¬ï¼å­¦æ ¡éé²ï¼è¿åè¿SCIâ¦â¦</div>
+        <div class="content_item_icon"></div>
+        <div class="content_item_cite">6689</div>
+      </a></li><li class="OP_LOG_LINK" ><a
+        rel="nofollow" href="https://gfsoso.99lb.net/hangyexinwen-471.html" target="_blank">
+        <div class="content_item_id"><i class="new_index_icon_number">6</i></div>
+        <div class="content_item_title">æ·±å³èä¸ææ¯å­¦é¢åï¼Scienceï¼</div>
+        <div class="content_item_icon"></div>
+        <div class="content_item_cite">2801</div>
+      </a></li>            </ul>
+          </div>
+        </div>
+      </div>
+      <p id="look" style="top:0px;"><a href="https://gfsoso.99lb.net/hangyexinwen">æ¥çæ´å¤>></a></p>
+      <p id="footerss">Â©SM.CN ç²¤ICPå¤13072090å·-2</p>
+    </center>
+  </div>
+
+  <div class="fbar row-fluid hidden-phone">
+    <div class="span7">
+      <ul class="unstyled inline fnavbar" style="margin-left:20px">
+
+        <!--<li><a href="http://bbs.99lb.net/research/48480xs.html" target="_blank">ãç¥ç½ãä¸æ¹ãç»´æ®ãåè´¹è´¦å·</a></li> -->
+        <li><a href="https://gfsoso.99lb.net/worldcat.html" target="_blank">worldcat</a></li>
+        <li><a href="https://gfsoso.99lb.net/" target="_blank">è°·æ­å­¦æ¯</a></li>
+        <li><a href="http://xueshu.99lb.net/" target="_blank">èåå­¦æ¯æç´¢</a></li>
+        <li><a href="https://gfsoso.99lb.net/jiaocheng/" target="_blank">è°·ç²æç¨</a></li>
+        <li><a href="http://www.papereasy.com" target="_blank" rel="nofollow">è®ºæéé</a></li>
+        <li><a href="https://www.cncnki.net" target="_blank" rel="nofollow">ç¥ç½æ¥é</a></li>
+        <li><a href="http://tool.99lb.net/" target="_blank">å­¦æ¯å¨çº¿å·¥å·</a></li>
+        <li><a href="https://gfsoso.99lb.net/ads.html" target="_blank">å¹¿åææ¾</a></li>
+        <li id="author-info"></li>
+      </ul>
+    </div>
+    <div>
+      <ul class="nav pull-right inline" style="font-size:12px;">
+        <li><span>å¼ææç®-è±ææç®-å¤ææç® Â© gfsoso.99lb.net </span></li>
+        <li><span> </span></li>
+      </ul>
+    </div>
+  </div>
+  <div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2ac336b9a3ec87f55ed159c524571d72";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+  </div>
+  <script src="https://img.99lb.net/index_files/js/jquery-3.3.1.min.js"></script>
+  <script src="https://img.99lb.net/index_files/js/index2.js"></script>
+  <script type="text/javascript">
+    function showLsj() {
+      var lsjweixin = document.getElementById('lsj_weixin');
+      console.log(lsjweixin)
+      let status = lsjweixin.getAttribute("data-index")
+      console.log(status)
+      if (status == 0) {
+        lsjweixin.style.display = "block";
+        lsjweixin.setAttribute("data-index", "1");
+      } else {
+        lsjweixin.style.display = "none";
+        lsjweixin.setAttribute("data-index", "0");
+      }
+    }
+  </script>
+  <script>
+    $(function () {
+		if(navigator.userAgent.match(/Mobi/i) || navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/iPhone/i)){
+			$('.isPC').append(`<img src="https://img.99lb.net/index_files/keyanhome/250250.svg" width="250" height="250">`)
+			
+		}else{
+			$('.isPC').append(`<img src="https://img.99lb.net/index_files/keyanhome/970.svg" width="970" height="90">`)
+		}
+		
+      let indexs = 0;
+      let arr = [1, 2, 3, 4];
+      $('.new_index_icon_right').click(function () {
+        if (indexs < arr.length - 1) {
+          indexs++;
+          $('.meau_list .demo1').eq(indexs).addClass('clickActive').siblings().removeClass('clickActive');
+          $("#index_new_subject_rank_content>div").eq(indexs).show().siblings().hide();
+        }
+        if (indexs == 3) {
+          $(this).removeClass('new_index_icon_right_active')
+          $('.new_index_icon_left').addClass('new_index_icon_left_active')
+        }
+      })
+      $('.new_index_icon_left').click(function () {
+        if (indexs > 0) {
+          indexs--;
+          $('.meau_list .demo1').eq(indexs).addClass('clickActive').siblings().removeClass('clickActive');
+          $("#index_new_subject_rank_content>div").eq(indexs).show().siblings().hide();
+        }
+        if (indexs == 0) {
+          $(this).removeClass('new_index_icon_left_active')
+          $('.new_index_icon_right').addClass('new_index_icon_right_active')
+        }
+      })
+      $('.meau_list').on('mouseover', '.demo1', function () {
+        $(this).addClass('clickActive').siblings().removeClass('clickActive')
+        if ($(this).index() == 0) {
+          $('.new_index_icon_right').addClass('new_index_icon_right_active')
+          $('.new_index_icon_left').removeClass('new_index_icon_left_active')
+
+        }
+        if ($(this).index() == (arr.length - 1)) {
+          $('.new_index_icon_left').addClass('new_index_icon_left_active')
+          $('.new_index_icon_right').removeClass('new_index_icon_right_active')
+
+        }
+        indexs = $(this).index();
+        $("#index_new_subject_rank_content>div").eq(indexs).show().siblings().hide();
+      })
+    })
+  </script>
+
+</body>
+
+</html>
